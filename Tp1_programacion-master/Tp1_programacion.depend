@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1554242615 source:c:\users\miguea11\desktop\git_tp1\tp_programacion_1\tp1_programacion1\tp1_programacion\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1554242390 source:c:\users\miguea11\desktop\git_tp1\tp_programacion_1\tp1_programacion1\tp1_programacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototipos.h"
+
+1554240667 c:\users\miguea11\desktop\git_tp1\tp_programacion_1\tp1_programacion1\tp1_programacion\prototipos.h
+	<stdio.h>
+	<stdlib.h>
+
+1554242615 source:c:\users\miguea11\desktop\project\tp1\tp1_programacion\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1554249487 source:c:\users\miguea11\desktop\project\tp1\tp1_programacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototipos.h"
+
+1554240667 c:\users\miguea11\desktop\project\tp1\tp1_programacion\prototipos.h
+	<stdio.h>
+	<stdlib.h>
+
+1554506309 source:c:\users\miguea11\pictures\tp1_programacion-master\tp1_programacion-master\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1554505587 source:c:\users\miguea11\pictures\tp1_programacion-master\tp1_programacion-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototipos.h"
+
+1554505560 c:\users\miguea11\pictures\tp1_programacion-master\tp1_programacion-master\prototipos.h
+	<stdio.h>
+	<stdlib.h>
+
